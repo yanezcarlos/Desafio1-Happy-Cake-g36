@@ -1,0 +1,9 @@
+.ancla {
+  text-decoration: none;
+  margin-right: 30px;
+  color: #fff;
+}
+
+.ancla:hover {
+  border-bottom: 1px solid #fff;
+}
